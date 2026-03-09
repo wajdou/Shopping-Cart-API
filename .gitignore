@@ -35,9 +35,6 @@ target/
 .project
 .settings/
 
-# Keystore (sensitive)
-cart-keystore.p12
-
 # OS
 .DS_Store
 Thumbs.db
